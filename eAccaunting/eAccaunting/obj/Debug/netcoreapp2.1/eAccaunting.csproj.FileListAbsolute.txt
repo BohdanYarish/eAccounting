@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\eAccaunting\eAccaunting\bin\Debug\netcoreapp2.1\eAccaunting.deps.json
+C:\Users\Admin\source\repos\eAccaunting\eAccaunting\bin\Debug\netcoreapp2.1\eAccaunting.runtimeconfig.json
+C:\Users\Admin\source\repos\eAccaunting\eAccaunting\bin\Debug\netcoreapp2.1\eAccaunting.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\eAccaunting\eAccaunting\bin\Debug\netcoreapp2.1\eAccaunting.dll
+C:\Users\Admin\source\repos\eAccaunting\eAccaunting\obj\Debug\netcoreapp2.1\eAccaunting.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\eAccaunting\eAccaunting\obj\Debug\netcoreapp2.1\eAccaunting.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\eAccaunting\eAccaunting\obj\Debug\netcoreapp2.1\eAccaunting.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\eAccaunting\eAccaunting\obj\Debug\netcoreapp2.1\eAccaunting.AssemblyInfo.cs
