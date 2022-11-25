@@ -27,6 +27,14 @@ namespace eAccaunting
     {
         private List<PersonUser> persons_to_choose;
 
+        public void SetPersons(List<PersonUser> persons)
+        {
+            if (persons == null)
+                return;
+        
+            persons_to_choose = persons;
+        }
+
         public override IUser CreateUser()
         {
             return new OrgAgentUser(form_email, form_password);
@@ -36,8 +44,9 @@ namespace eAccaunting
         {
             if (db_immitation.Count == 0)
                 return;
+            persons_to_choose = new List<PersonUser>();
 
-            foreach(var item in db_immitation)
+            foreach (var item in db_immitation)
             {
                 persons_to_choose.Add(item.Value);
             }
@@ -49,6 +58,9 @@ namespace eAccaunting
         {
             List<PersonUser> persons_with_statuses = new List<PersonUser>();
 
+            if (persons_to_choose == null || chosen_statuses == null)
+                return persons_with_statuses;
+
             foreach(var person in persons_to_choose)
             {
                 if (CheckPersonStatuses(person, chosen_statuses))
@@ -56,6 +68,19 @@ namespace eAccaunting
             }
 
             return persons_with_statuses;
+        }
+
+        public Dictionary<string, PersonUser> SaveUsers()
+        {
+            Dictionary<string, PersonUser> db = new Dictionary<string, PersonUser>();
+
+            foreach(var item in persons_to_choose)
+            {
+                if (!db.ContainsKey(item.GetEmail()))
+                    db.Add(item.GetEmail(), item);
+            }
+
+            return db;
         }
 
         private bool CheckPersonStatuses(PersonUser person, List<UserStatus> status_list)

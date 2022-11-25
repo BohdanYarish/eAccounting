@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\ModuleTest\ModuleTest\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\Admin\source\repos\ModuleTest\ModuleTest\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Users\Admin\source\repos\ModuleTest\ModuleTest\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\Users\Admin\source\repos\ModuleTest\ModuleTest\bin\Debug\netcoreapp2.1\Mono.Cecil.dll
+C:\Users\Admin\source\repos\ModuleTest\ModuleTest\bin\Debug\netcoreapp2.1\ModuleTest.deps.json
+C:\Users\Admin\source\repos\ModuleTest\ModuleTest\bin\Debug\netcoreapp2.1\ModuleTest.runtimeconfig.json
+C:\Users\Admin\source\repos\ModuleTest\ModuleTest\bin\Debug\netcoreapp2.1\ModuleTest.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\ModuleTest\ModuleTest\bin\Debug\netcoreapp2.1\ModuleTest.dll
+C:\Users\Admin\source\repos\ModuleTest\ModuleTest\bin\Debug\netcoreapp2.1\ModuleTest.pdb
+C:\Users\Admin\source\repos\ModuleTest\ModuleTest\obj\Debug\netcoreapp2.1\ModuleTest.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ModuleTest\ModuleTest\obj\Debug\netcoreapp2.1\ModuleTest.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ModuleTest\ModuleTest\obj\Debug\netcoreapp2.1\ModuleTest.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ModuleTest\ModuleTest\obj\Debug\netcoreapp2.1\ModuleTest.dll
+C:\Users\Admin\source\repos\ModuleTest\ModuleTest\obj\Debug\netcoreapp2.1\ModuleTest.pdb
+C:\Users\Admin\source\repos\ModuleTest\ModuleTest\obj\Debug\netcoreapp2.1\ModuleTest.csprojAssemblyReference.cache

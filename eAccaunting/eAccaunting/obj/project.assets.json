@@ -766,11 +766,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\eAccaunting\\eAccaunting\\eAccaunting.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\Desktop\\APZ_Project\\eAccounting\\eAccaunting\\eAccaunting\\eAccaunting.csproj",
       "projectName": "eAccaunting",
-      "projectPath": "C:\\Users\\Admin\\source\\repos\\eAccaunting\\eAccaunting\\eAccaunting.csproj",
+      "projectPath": "C:\\Users\\Admin\\Desktop\\APZ_Project\\eAccounting\\eAccaunting\\eAccaunting\\eAccaunting.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\source\\repos\\eAccaunting\\eAccaunting\\obj\\",
+      "outputPath": "C:\\Users\\Admin\\Desktop\\APZ_Project\\eAccounting\\eAccaunting\\eAccaunting\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
